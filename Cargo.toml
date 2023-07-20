@@ -1,0 +1,11 @@
+[package]
+name = "ferriscrab"
+version = "0.1.0"
+edition = "2021"
+description = "Ferriscrab is a lightweight and high-performance web server written in Rust"
+license = "MIT"
+documentation = "https://docs.rs/ferriscrab"
+repository = "https://github.com/sunray-ley/ferriscrab"
+
+[dependencies]
+ferris-says = "0.2"
