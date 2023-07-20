@@ -22,6 +22,8 @@ cargo install ferriscrab
 
 ## Usage
 
+**NOTICE: Ferriscrab is still under active development and will soon be available.**
+
 ### Starting
 
 You can start the Ferriscrab server with the following command:
