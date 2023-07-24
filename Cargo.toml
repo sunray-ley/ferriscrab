@@ -8,4 +8,3 @@ documentation = "https://docs.rs/ferriscrab"
 repository = "https://github.com/sunray-ley/ferriscrab"
 
 [dependencies]
-ferris-says = "0.2"
